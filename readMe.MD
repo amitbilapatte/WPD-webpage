@@ -1,0 +1,3 @@
+- This miniproject is just a simple webpage created using HTML and CSS
+- In this I have tried to replicate the "oxford university website" frontpage using just HTML and CSS.
+- thats it
